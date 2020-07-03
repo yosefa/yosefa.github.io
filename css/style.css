@@ -1,0 +1,26 @@
+.logo-image {
+    margin: 15px auto;
+    height: 150px;
+    width: auto;
+}
+
+.logo-detail-image {
+    margin: 25px auto;
+    margin-bottom: 5px;
+}
+
+.card .card-image img {
+    width: auto;
+}
+
+.color-black {
+    color: black;
+}
+
+.p3 {
+    padding: 25px;
+}
+
+.p5 {
+    padding: 50px;
+}
