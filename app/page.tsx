@@ -95,7 +95,7 @@ const Home = () => {
         </section>
 
         {/* Projects Section */}
-        <section className="bg-white shadow-xl rounded-2xl md:p-8 p-6 mb-12">
+        <section className="bg-white shadow-xl rounded-2xl md:p-8 p-6 mb-7">
           <div className="flex items-center mb-8">
             <Briefcase className="w-8 h-8 text-blue-600 mr-3" />
             <h2 className="text-2xl font-semibold text-blue-600">Projects</h2>
@@ -135,7 +135,7 @@ const Home = () => {
           </div>
         </section>
 
-        <footer className="text-center py-6 text-gray-600">
+        <footer className="text-center py-0 text-gray-600">
           <p>Made with <span className="text-red-500">♥</span> in Jakarta</p>
         </footer>
       </div>
